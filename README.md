@@ -17,6 +17,7 @@ A list of common publically (and privately) available audio data that you can do
 [Valentini](https://datashare.is.ed.ac.uk/handle/10283/2791)|Noisy Speech Database [All Files](http://datashare.is.ed.ac.uk/download/DS_10283_2791.zip), [DOI](https://doi.org/10.7488/ds/2117) |Read|TBC
 [archive](https://archive.org/)|[CHiME-Home](https://archive.org/download/chime-home/chime_home.tar.gz)|Read|~4GB
 [personalwebsite](https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2)|[LJ speech](https://keithito.com/LJ-Speech-Dataset/)|Read|13,100 short audio clips
+[LJ Speech](https://keithito.com/LJ-Speech-Dataset/)|[LJ Speech](http://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2)|Read|24
 
 ## 2. PAID
 
@@ -36,5 +37,5 @@ A list of common publically (and privately) available audio data that you can do
 **Source**|**Name & Direct Link**|**Type**|**Size(Hours)**
 :-----:|:-----:|:-----:|:-----:
 [Edinburgh CSTR](https://datashare.is.ed.ac.uk/handle/10283/2651)|[CSTR VCTK Corpus](https://datashare.is.ed.ac.uk/bitstream/handle/10283/2651/VCTK-Corpus.zip?sequence=2&isAllowed=y)|Read|44
-[LJ Speech](https://keithito.com/LJ-Speech-Dataset/)|[LJ Speech](http://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2)|Read|24
+
 
