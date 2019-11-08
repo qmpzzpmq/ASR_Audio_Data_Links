@@ -15,7 +15,7 @@ A list of common publically (and privately) available audio data that you can do
 [Mozilla](https://voice.mozilla.org)|[Common Voice en_1087h_2019-06-12](https://voice-prod-bundler-ee1969a6ce8178826482b88e843c335139bd3fb4.s3.amazonaws.com/cv-corpus-3/en.tar.gz)|Read|1087 
 [Tatoeba](http://tatoeba.org)|[Tatoeba Audio Eng](https://downloads.tatoeba.org/tatoeba_audio_eng.zip)|Read|~200
 [Valentini](https://datashare.is.ed.ac.uk/handle/10283/2791)|Noisy Speech Database [All Files](http://datashare.is.ed.ac.uk/download/DS_10283_2791.zip), [DOI](https://doi.org/10.7488/ds/2117) |Read|TBC
-
+[archive](https://archive.org/)|[CHiME-Home](https://archive.org/download/chime-home/chime_home.tar.gz)|Read|~4GB
 
 ## 2. PAID
 
