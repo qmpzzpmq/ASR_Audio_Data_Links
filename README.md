@@ -16,6 +16,7 @@ A list of common publically (and privately) available audio data that you can do
 [Tatoeba](http://tatoeba.org)|[Tatoeba Audio Eng](https://downloads.tatoeba.org/tatoeba_audio_eng.zip)|Read|~200
 [Valentini](https://datashare.is.ed.ac.uk/handle/10283/2791)|Noisy Speech Database [All Files](http://datashare.is.ed.ac.uk/download/DS_10283_2791.zip), [DOI](https://doi.org/10.7488/ds/2117) |Read|TBC
 [archive](https://archive.org/)|[CHiME-Home](https://archive.org/download/chime-home/chime_home.tar.gz)|Read|~4GB
+[personalwebsite](https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2)|[LJ speech](https://keithito.com/LJ-Speech-Dataset/)|Read|13,100 short audio clips
 
 ## 2. PAID
 
